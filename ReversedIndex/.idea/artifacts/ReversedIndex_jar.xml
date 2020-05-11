@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReversedIndex:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReversedIndex_jar</output-path>
+    <root id="archive" name="ReversedIndex.jar">
+      <element id="module-output" name="ReversedIndex" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop-2.7.5/share/hadoop/mapreduce/hadoop-mapreduce-client-app-2.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop-2.7.5/share/hadoop/mapreduce/hadoop-mapreduce-client-common-2.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop-2.7.5/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop-2.7.5/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop-2.7.5/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-2.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop-2.7.5/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.7.5-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop-2.7.5/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop-2.7.5/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-2.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop-2.7.5/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop-2.7.5/share/hadoop/common/hadoop-common-2.7.5-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop-2.7.5/share/hadoop/common/hadoop-common-2.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop-2.7.5/share/hadoop/common/hadoop-nfs-2.7.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
